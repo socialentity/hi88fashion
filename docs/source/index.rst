@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
+Hi88 Fasihon - Nhà cái cá cược uy tín hàng đầu tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hi88 <https://hi88.fashion/>`_ Fasihon - Nhà cái cá cược uy tín hàng đầu tại Việt Nam. Sân chơi được thành lập tại Philippines năm 2011 đến nay đã có hơn 10 triệu thành viên tin tưởng tham gia. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với các dịch vụ đa dạng như casino online, thể thao, bắn cá, đá gà, xổ số, và nổ hũ, Hi88 mang đến cho người chơi những trải nghiệm giải trí tuyệt vời và cơ hội giành chiến thắng hấp dẫn. 
 
-.. note::
+Được công nhận là nhà cái uy tín, Hi88 luôn đặt sự hài lòng và an toàn của người chơi lên hàng đầu. Hãy tham gia Hi88 để trải nghiệm một sân chơi chuyên nghiệp và tin cậy.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 33/34 Đ. Số 4, Bình Hưng Hoà A, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0852531888. 
 
-   usage
-   api
+Email: info@hi88.fashion. 
+
+Website: https://hi88.fashion/
+
+#hi88 #nhacaihi88 #trangchuhi88 #dangkyhi88 #linkhi88
+
+https://www.facebook.com/hi88fashion
+
+https://x.com/hi88fashion
+
+https://www.youtube.com/@hi88fashion
+
+https://www.pinterest.com/hi88fashion/
